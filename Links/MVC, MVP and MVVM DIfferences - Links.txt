@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/19444431/what-is-difference-between-mvc-mvp-mvvm-design-pattern-in-terms-of-coding-c-s
+
+http://martinfowler.com/eaaDev/uiArchs.html
+
+http://geekswithblogs.net/dlussier/archive/2009/11/21/136454.aspx

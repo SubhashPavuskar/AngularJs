@@ -1,0 +1,4 @@
+http://www.angular2.com/
+https://www.codeschool.com/courses/accelerating-through-angular-2
+http://learnangular2.com/
+https://www.sitepoint.com/angular-2-tutorial/
